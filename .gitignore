@@ -3,3 +3,6 @@ dataset/
 __pycache__/
 .idea/
 *.h5
+create_singularity_image.md
+run_main.sh
+self_supervised_segmentation.sif
